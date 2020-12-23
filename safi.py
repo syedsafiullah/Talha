@@ -96,7 +96,7 @@ vuln = "\033[32mVuln"
 os.system("clear")
 print "\033[1;96m ============================================================="
 print  """\033[1;91m
- SYED SAFIULLAH
+                      SYED SAFIULLAH
                      ▇◤▔▔▔▔▔▔▔◥▇
                      ▇▏◥▇◣┊◢▇◤▕▇
                      ▇▏▃▆▅▎▅▆▃▕▇
@@ -106,19 +106,15 @@ print  """\033[1;91m
                      ▇▇▇◣╲▇╱◢▇▇▇
                      ▇▇▇▇◣▇◢▇▇▇▇
                    WhatsApp : +92 300 0824195
-\033[1;96mAuthor  \033[1;93m: \033[1;92mKomail Khan
-\033[1;96mInstagram \033[1;93m: \033[1;92mitx_muskan_yr
-\033[1;96mFacebook  \033[1;93m: \033[1;92m komail.khan.3781
-\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/KomailKhan/komailkhan
+\033[1;96mAuthor  \033[1;93m: \033[1;92 🙄🙄🙄
+\033[1;96mInstagram \033[1;93m: \033[1;92🖕🖕🖕
+\033[1;96mFacebook  \033[1;93m: \033[1;92m Syed safiullah
+\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/syedsafiullah/Talha
 \033[1;91m======================================="""
 print " \x1b[1;93m============================================================="
 
 CorrectUsername = syed
 CorrectPassword = safi
-
-loop = 'true'
-while (loop == 'true'):
-    username = raw_input("\033[1;96m[☆] \x1b[1;93mUsername Of Tool \x1b[1;96m>>>> ")
     if (username == CorrectUsername):
     	password = raw_input("\033[1;96m[☆] \x1b[1;93mPassword Of Tool \x1b[1;96m>>>> ")
         if (password == CorrectPassword):
